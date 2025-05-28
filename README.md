@@ -1,4 +1,4 @@
-# GRC Risk Management System
+# GRC Risk Management System --VER 1.1
 
 🚀 **Overview**
 The **GRC AI Risk Management System** streamlines governance, risk, and compliance reporting with automated validation, AI-generated insights, and embedded visualization.
