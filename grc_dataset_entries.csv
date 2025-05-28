@@ -1,0 +1,9 @@
+Risk Statement,Policy,Control Objectives,Issue,Citation,Business Context,Risk Severity,Impact Level
+Fraudulent transactions,Fraud Prevention Policy,Monitor transaction anomalies,Insufficient fraud detection,PCI DSS Requirement 10,Retail Banking,High,Legal
+Unauthorized access to sensitive data,Access Control Policy,Ensure periodic audits,No disaster recovery plan,PCI DSS Requirement 10,Accounting Division
+Non-compliance with financial regulations,Business Continuity Policy,Implement multi-factor authentication,Weak password enforcement,PCI DSS Requirement 10,Operations Team,High,High
+Non-compliance with financial regulations,Access Control Policy,Maintain redundant infrastructure,No disaster recovery plan,PCI DSS Requirement 10,Finance Department,Medium,Medium
+Unauthorized access to sensitive data,Access Control Policy,Implement multi-factor authentication,Weak password enforcement,ISO 27001: A.9.4.2,Finance Department
+Unauthorized access to sensitive data,Access Control Policy,Implement multi-factor authentication,Weak password enforcement,ISO 27001: A.9.4.2,Finance Department
+System downtime affecting operations,Business Continuity Policy,Conduct regular phishing simulations,Weak password enforcement,PCI DSS Requirement 10,Finance Department
+Unauthorized access to sensitive data,Cybersecurity Awareness Policy,Maintain redundant infrastructure,Weak password enforcement,NIST 800-53: AT-2,Retail Banking
